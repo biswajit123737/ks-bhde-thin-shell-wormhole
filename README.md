@@ -9,7 +9,7 @@ Every figure in the paper can be regenerated from this repository, and the numbe
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/ks-bhde-thin-shell-wormhole.git
+git clone https://github.com/biswajit123737/ks-bhde-thin-shell-wormhole.git
 cd ks-bhde-thin-shell-wormhole
 pip install -r requirements.txt
 python run_all.py
