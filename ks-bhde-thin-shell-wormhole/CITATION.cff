@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper and this software."
+title: "Numerical codes for: Dynamical Thin-Shell Wormholes from the Kazakov-Solodukhin Quantum-Corrected Black Hole Supported by Barrow Holographic Dark Energy"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Sarkar
+    given-names: Biswajit
+    affiliation: "Department of Mathematics, Indian Institute of Engineering Science and Technology, Shibpur, India"
+  - family-names: Debnath
+    given-names: Ujjal
+    affiliation: "Department of Mathematics, Indian Institute of Engineering Science and Technology, Shibpur, India"
+keywords:
+  - thin-shell wormholes
+  - Kazakov-Solodukhin black hole
+  - Barrow holographic dark energy
+  - general relativity

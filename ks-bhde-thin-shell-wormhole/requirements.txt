@@ -1,0 +1,4 @@
+# Tested with Python 3.11, NumPy 2.4.4, SciPy 1.17.1, Matplotlib 3.10.9
+numpy
+scipy
+matplotlib
